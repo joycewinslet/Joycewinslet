@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Joyce Winslet 👋
 
-<!--
-**joycewinslet/Joycewinslet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+💻 I'm learning Python and Java and improving my programming skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning programming and software development
+- 🔌 Interested in Embedded Systems, IoT, and Smart Energy Solutions
+- 🛠️ Building projects to develop practical technical skills
+- 🎯 Goal: Become a skilled engineer and software professional
+
+## 💻 Technologies I'm Learning
+- Python
+- Java
+- SQL and DBMS
+- Arduino and ESP32
+
+## 📂 Projects
+- Python Programming — Practice programs and coding exercises
+- Java Training — Java fundamentals and practice programs
+- Smart Energy Monitoring — An IoT-based energy monitoring project
+
+## 📫 Connect With Me
+- GitHub: https://github.com/joycewinslet
+
+⭐ Thanks for visiting my profile!
